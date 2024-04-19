@@ -8,7 +8,7 @@ Enthusiastic Engineer with 3+ years of Industry Experience, keen to learn new te
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [s.karimulla350@gmail.com](mailto:s.karimulla350@gmail.com)
-* 🚀  I'm currently working on [BYJU'S](http://byjus.com)
+* 🚀  I'm currently working on [FlexiLoans](https://flexiloans.com/)
 * 🧠  I'm learning Python and Data Structures.
 * 🤝  I'm open to collaborating on interesting projects as a developer or designer.
 * ⚡  Experience is the name everyone gives to their mistakes.
