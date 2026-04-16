@@ -1,49 +1,93 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is karimulla shaik
-=======================================================================================================================================
+# 👋 Hi, I'm Karimulla Shaik
 
-Full Stack Web Developer
-------------------------
+💻 Senior Full Stack Developer | 🚀 5.10 Years Experience | 🇮🇳 India  
 
-Enthusiastic Engineer with 5 years of Industry Experience, keen to learn new technologies, Always works to bring the system to its best version.
+---
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [sfdckareem@gmail.com](mailto:sfdckareem@gmail.com)
-* 🚀  I'm currently working on [FlexiLoans](https://flexiloans.com/)
-* 🧠  I'm learning Python and Data Structures.
-* 🤝  I'm open to collaborating on interesting projects as a developer or designer.
-* ⚡  Experience is the name everyone gives to their mistakes.
+## 🚀 About Me
+- 🔭 Currently working at **Innovapptive Inc**
+- 💼 Ex-SDE III @ FlexiLoans
+- 🌱 Learning **AI & Go Language**
+- ⚡ Building scalable backend systems & integrations
+- 🤝 Open to collaboration on impactful projects
 
-### Skills
+---
 
+## 🛠️ Tech Stack
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+### 💻 Frontend
+- JavaScript (ES6+)
+- React.js
+- Next.js
+- HTML5, CSS3
+- Bootstrap, Material UI
+
+---
+
+### ⚙️ Backend
+- Node.js
+- NestJS
+- Express.js
+- REST APIs & Microservices Architecture
+
+---
+
+### 🗄️ Databases & Messaging
+- MongoDB
+- MySQL
+- PostgreSQL
+- Redis
+- RabbitMQ
+
+---
+
+### ☁️ Cloud & DevOps
+- AWS (EC2, EKS, Lambda, SQS, SNS, CloudWatch)
+- Event-driven architecture
+- System design & scalable services
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kareem957&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kareem957&theme=tokyonight&hide_border=true" />
 </p>
 
+---
 
-### Socials
+## 📈 Activity Graph
 
-<p align="left"> <a href="https://www.dev.to/kareem957" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/kareem957" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/karimullashaik1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@s.karimulla350" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/@_KarimShaik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=kareem957&theme=react-dark&hide_border=true" />
+</p>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 🚀 Projects
 
-<a href="http://www.github.com/kareem957"><img src="https://github-readme-stats.vercel.app/api?username=kareem957&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kareem957's GitHub stats" /></a>
+### 🔹 Online Compiler
+- React.js, Node.js, MongoDB  
+- Live: https://compiler-kareem957.vercel.app/
 
-<a href="http://www.github.com/kareem957"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kareem957&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🔹 Ticket Booking System
+- Full-stack application  
+- Live: https://ticket-booking-system-client.onrender.com  
 
-<a href="http://www.github.com/kareem957"><img src="https://activity-graph.herokuapp.com/graph?username=kareem957&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+---
 
-<a href="https://github.com/kareem957" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem957&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 🌐 Connect With Me
+
+- 📧 Email: s.karimulla350@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/karimulla-shaikh  
+- 🐙 GitHub: https://github.com/kareem957  
+
+---
+
+## 💡 Fun Fact
+> I specialize in building scalable backend systems and event-driven architectures 🚀
+
+---
+
+⭐️ From [kareem957](https://github.com/kareem957)
