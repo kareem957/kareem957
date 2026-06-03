@@ -9,7 +9,7 @@
 - 💼 Ex-SDE III @ FlexiLoans
 - 🌱 Learning **AI & Go Language**
 - ⚡ Building scalable backend systems & integrations
-- 🤝 Open to collaboration on impactful projects
+- 🤝 Open to collaboration on impactful projects.
 
 ---
 
