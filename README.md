@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karimulla Shaik
 
-💻 Senior Full Stack Developer  | 🚀 5.11 Years Experience | 🇮🇳 India   
+💻 Senior Full Stack Developer  | 🚀 6 Years Experience | 🇮🇳 India   
 
 ---
 
