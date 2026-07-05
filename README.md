@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Karimulla Shaik
 
-💻 Senior Full Stack Developer  | 🚀 6 Years Experience | 🇮🇳 India   
+💻 Senior Full Stack Developer  | 🚀 6 Years Experience | 🇮🇳 India
+
+🌐 **Portfolio:** https://dev-kareem.vercel.app
 
 ---
 
@@ -79,9 +81,10 @@
 
 ## 🌐 Connect With Me
 
-- 📧 Email: s.karimulla350@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/karimulla-shaikh  
-- 🐙 GitHub: https://github.com/kareem957  
+- 🌐 Portfolio: https://dev-kareem.vercel.app
+- 📧 Email: s.karimulla350@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/karimulla-shaikh
+- 🐙 GitHub: https://github.com/kareem957
 
 ---
 
